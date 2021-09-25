@@ -33,7 +33,7 @@ If we do normaly,
 8 ** 80 ==> 80 multiplications
          ||
          ||
-       \\\/// reduces to
+  now  \\\/// reduces to
         \\//
          \/
 4096 ** 20  ==> 24 multiplications
