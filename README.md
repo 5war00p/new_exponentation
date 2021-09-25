@@ -29,7 +29,7 @@ total 24 multiplications required
 
 
 If we do normaly,
-
+```
 8 ** 80 ==> 80 multiplications
          ||
          ||
@@ -37,6 +37,6 @@ If we do normaly,
         \\//
          \/
 4096 ** 20  ==> 24 multiplications
-
+```
 
 This is done just to reduce the costly multiplication operations.
